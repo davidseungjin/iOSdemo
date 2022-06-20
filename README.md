@@ -1,4 +1,4 @@
-# iOS Project animation exhibition
+# my iOS Projects summary (with animation)
 
 <p>
     <img src="https://img.shields.io/badge/iOS-13.0+-blue.svg" />
