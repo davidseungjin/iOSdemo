@@ -13,9 +13,9 @@ This page is to see the progress of iOS project for the past years. Some of you 
 | Animation Demo | Title & Content | Tech utilized | Month / Year | Animation Demo | Title & Content | Tech utilized | Month / Year |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | <img src='https://github.com/davidseungjin/iOSdemo/blob/main/qrcode.gif' width="150" height="300"> | QR code - Contact manager <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | July / 2022 <br /> Expected| <img src='https://github.com/davidseungjin/BucketList/blob/main/mapkit.gif' width="150" height="300"> | Bucket List <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | Jun / 2022 |
-| <img src='https://github.com/davidseungjin/CupcakeCorner/blob/main/cubcake.gif' width="150" height="300"> | Ordering module <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | May / 2022 |
-| <img src='https://github.com/davidseungjin/BookWorm/blob/main/bookworm_pjt.gif' width="150" height="300"> | Local List Manager <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | Jun / 2022 |
-| <img src='https://github.com/davidseungjin/Parstagram3/blob/main/Parstagram3-ver2.gif' width="150" height="300"> | Instagram clone <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | Jun / 2022 |
-| <img src='https://github.com/davidseungjin/twitterpart1and2/blob/master/HW4_1.gif' width="150" height="300"> | Twitter clone <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | Jun / 2022 |
-| <img src='https://github.com/davidseungjin/dMovie/blob/main/ezgif.com-gif-maker.gif' width="150" height="300"> | iMDB movie viewer <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | Jun / 2022 |
+| <img src='https://github.com/davidseungjin/CupcakeCorner/blob/main/cubcake.gif' width="150" height="300"> | Ordering module <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | May / 2022 |<img src='https://github.com/davidseungjin/BookWorm/blob/main/bookworm_pjt.gif' width="150" height="300"> | Local List Manager <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | Jun / 2022 |
+ 
+| <img src='https://github.com/davidseungjin/Parstagram3/blob/main/Parstagram3-ver2.gif' width="150" height="300"> | Instagram clone <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | Jun / 2022 |<img src='https://github.com/davidseungjin/twitterpart1and2/blob/master/HW4_1.gif' width="150" height="300"> | Twitter clone <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | Jun / 2022 |
+
+| <img src='https://github.com/davidseungjin/dMovie/blob/main/ezgif.com-gif-maker.gif' width="150" height="300"> | iMDB movie viewer <br /> newline <br /> newline2 | - SwiftUI <br /> - test1 <br /> - test2 | Jun / 2022 | ------ | ------ | ------ | ------ |
 
