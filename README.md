@@ -15,21 +15,21 @@ This page is to see the progress of iOS project for the past years. Some of you 
 <img src='https://github.com/davidseungjin/BucketList/blob/main/mapkit.gif' width="150" height="300">
 
 ### Ordering module - May 2022
-<img src='https://github.com/davidseungjin/CupcakeCorner/blob/main/cubcake.gif' />
+<img src='https://github.com/davidseungjin/CupcakeCorner/blob/main/cubcake.gif' width="150" height="300">
 
 ### Local List Manager - May 2022
-<img src='https://github.com/davidseungjin/BookWorm/blob/main/bookworm_pjt.gif' />
+<img src='https://github.com/davidseungjin/BookWorm/blob/main/bookworm_pjt.gif' width="150" height="300">
 </div>
   
 ## Development framework: UIKit
 <div>
   
 ### Instagram clone - Mar 2021
-<img src='https://github.com/davidseungjin/Parstagram3/blob/main/Parstagram3-ver2.gif' />
+<img src='https://github.com/davidseungjin/Parstagram3/blob/main/Parstagram3-ver2.gif' width="150" height="300">
 
 ### Twitter clone - Mar 2021
-<img src='https://github.com/davidseungjin/twitterpart1and2/blob/master/HW4_1.gif' />
+<img src='https://github.com/davidseungjin/twitterpart1and2/blob/master/HW4_1.gif' width="150" height="300">
 
 ### iMDB movie viewer - Feb 2021
-<img src='https://github.com/davidseungjin/dMovie/blob/main/ezgif.com-gif-maker.gif' />
+<img src='https://github.com/davidseungjin/dMovie/blob/main/ezgif.com-gif-maker.gif' width="150" height="300">
 </div>
