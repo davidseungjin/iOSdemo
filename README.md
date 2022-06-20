@@ -10,6 +10,16 @@ This page is to see the progress of iOS project for the past years. Some of you 
 ## Summary
 - QR Code scanner and generator
 
+| Animation Demo | Title & Content | Tech utilized | Month / Year |
+| ------ | ------ | ------ | ------ |
+| <img src='https://github.com/davidseungjin/BucketList/blob/main/mapkit.gif' width="150" height="300"> | Bucket List | - SwiftUI
+- test1
+- test2 | Jun / 2022 |
+| GitHub | [plugins/github/README.md][PlGh] | ------ |
+| Google Drive | [plugins/googledrive/README.md][PlGd] | ------ |
+| OneDrive | [plugins/onedrive/README.md][PlOd] | ------ |
+| Medium | [plugins/medium/README.md][PlMe] | ------ |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] | ------ |
 
 ### Bucket List - Jun 2022
 <img src='https://github.com/davidseungjin/BucketList/blob/main/mapkit.gif' width="150" height="300">
