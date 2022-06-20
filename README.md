@@ -2,7 +2,8 @@
 
 ## Development framework: SwiftUI
 <div>
-### Bucket List - Jun 2022
+
+  ### Bucket List - Jun 2022
   <br>
 <img src='https://github.com/davidseungjin/BucketList/blob/main/mapkit.gif' />
 
