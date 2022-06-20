@@ -1,10 +1,18 @@
-# iOS demo - SwiftUI from 2022
+# iOS Project animation exhibition
 
-## Development framework: SwiftUI
-<div>
+<p>
+    <img src="https://img.shields.io/badge/iOS-13.0+-blue.svg" />
+    <img src="https://img.shields.io/badge/Swift-5.1-ff69b4.svg" />
+</p>
 
-  ### Bucket List - Jun 2022
-<img src='https://github.com/davidseungjin/BucketList/blob/main/mapkit.gif' />
+This page is to see the progress of iOS project for the past years. Some of you are aware of Apple's announcement on transitioning framework from UIKit to SwiftUI, my projects corresponds to this wave. From 2022, the main framework of every project is SwiftUI.
+
+## Summary
+- QR Code scanner and generator
+
+
+### Bucket List - Jun 2022
+<img src='https://github.com/davidseungjin/BucketList/blob/main/mapkit.gif' width="150" height="300">
 
 ### Ordering module - May 2022
 <img src='https://github.com/davidseungjin/CupcakeCorner/blob/main/cubcake.gif' />
