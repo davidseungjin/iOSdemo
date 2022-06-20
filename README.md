@@ -4,11 +4,9 @@
     <img src="https://img.shields.io/badge/iOS-13.0+-blue.svg" />
     <img src="https://img.shields.io/badge/Swift-5.1-ff69b4.svg" />
 </p>
-
-This page is to see the progress of iOS project for the past years. Some of you are aware of Apple's announcement on transitioning framework from UIKit to SwiftUI, my projects corresponds to this wave. From 2022, the main framework of every project is SwiftUI.
+This page is to see the progress of iOS project for the past years. <br />Some of you are aware of Apple's announcement on transitioning framework from UIKit to SwiftUI, my projects corresponds to this wave. From 2022, the main framework of every project is SwiftUI.
 
 ## Summary
-- QR Code scanner and generator
 
 | Animation Demo | Title & Content | Tech utilized | Application<br />Area | Month / Year |
 | ------ | --------- | -------- | ---- | ---- |
